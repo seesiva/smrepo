@@ -7,3 +7,4 @@ Repository for DICOM Image Classification research
 3. https://www.tensorflow.org/get_started/mnist/mechanics
 4. http://learningtensorflow.com/getting_started/
 5. http://www.wolfib.com/Image-Recognition-Intro-Part-1/
+6. https://github.com/slowvak/MachineLearningForMedicalImages
