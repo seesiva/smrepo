@@ -8,3 +8,4 @@ Repository for DICOM Image Classification research
 4. http://learningtensorflow.com/getting_started/
 5. http://www.wolfib.com/Image-Recognition-Intro-Part-1/
 6. https://github.com/slowvak/MachineLearningForMedicalImages
+7. http://www.rubedo.com.br/2017/06/deep-learning-for-medical-image-analysis.html
