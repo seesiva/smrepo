@@ -1,6 +1,6 @@
 # Things to do
 
-- [ ] Identification of Domain - Medical Images - Lung Cancer CT Images?
+- [x] Identification of Domain - Medical Images - Lung Cancer CT Images?
 - [ ] Identification of Image Repository
 - [ ] Identification of Tools/Library for DICOM Image Processing
 - [ ] Identification of attributes to be stored after Image Processing
